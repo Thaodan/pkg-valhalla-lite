@@ -145,8 +145,4 @@ rm -rf %{buildroot}%{_datadir}/cpp-statsd-client
 %{_bindir}/valhalla_*
 
 %changelog
-* Mon Aug 27 2018 rinigus <rinigus.git@gmail.com> - 2.6.3-1
-- packaging lite version
 
-* Tue Jul 10 2018 rinigus <rinigus.git@gmail.com> - 2.6.2-1
-- packaging lite version
